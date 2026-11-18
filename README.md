@@ -6,14 +6,14 @@ A small practice script I wrote while learning Python and APIs. It takes a GitHu
 
 Requires Python and the `requests` library (`pip install requests`).
 
-1. Open `github_user.py` and set the `user_name` line at the top to the GitHub username you want.
+## Requirements and how to run
 
-## Example user_name
+Requires Python and the `requests` library (`pip install requests`).
 
-```Python
-user_name = "Honorat-0"
-```
-2. Run `github_user.py`.
+1. Open `github_user.py` and set the `user_name` line at the top to a GitHub username, for example `user_name = "Honorat-0"`.
+
+2. Run the script with Python, for example `python3 github_user.py`.
+
 
 ## Example output
 
